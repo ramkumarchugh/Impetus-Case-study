@@ -1,0 +1,30 @@
+<app-header>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-custom-sky fixed-top">
+        <a class="navbar-brand" routerLink="#"><strong>Insurance</strong></a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown"
+            aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNavDropdown">
+            <ul class="navbar-nav">
+                <li class="nav-item" routerLinkActive="active">
+                    <a class="nav-link" routerLink="./application-underwriter">Applications for Review</a>
+                </li>
+
+
+            </ul>
+        </div>
+        <div style="color: white; font-size: 120%">
+                Hi,  {{getName}} &nbsp;
+              </div>
+
+        <div>
+                <button type="button" class="btn btn-outline-light" name="signOut">
+                    <a routerLink="signOut"><span class="header-btn">Sign Out</span></a>
+                </button>
+            </div>
+    </nav>
+
+
+ <app-body></app-body> 
+<app-footer></app-footer>

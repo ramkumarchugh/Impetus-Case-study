@@ -1,0 +1,34 @@
+<div class="card"  >
+    <div class="card-header"> 
+        <h2><strong>
+                {{ policy.name }}
+            </strong></h2>
+    </div>
+    <div class="card-body">
+            <p *ngIf="policy.description">
+                {{ policy.description }}
+            </p>
+            
+        </div>
+<table class="table table-bordered">
+    <tr>
+        <th>Maximum Dependents : </th>
+        <th colspan="2">{{policy.maxDependents}}</th>
+    </tr>
+    <tr>
+            <th>Sum Assured Range : </th>
+            <th>{{policy.low}}</th>
+            <th> {{policy.high}}</th>
+        </tr>
+        <tr>
+                <th>Maximum Years : </th>
+                <th colspan="2">{{policy.maxYears}}</th>
+            </tr>
+</table>
+</div>
+
+
+
+
+
+ 

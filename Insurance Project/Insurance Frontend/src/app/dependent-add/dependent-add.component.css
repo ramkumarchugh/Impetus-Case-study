@@ -1,0 +1,37 @@
+  
+    input[type=button] {
+    
+    
+        width: 15%;
+        
+        
+        background-color: lightseagreen;
+        
+        
+        color: white;
+        
+        
+        padding: 6px 8px;
+        
+        
+        margin: 8px 0;
+        
+        
+        border: none;
+        
+        
+        border-radius: 4px;
+        
+        
+        cursor: pointer;
+       }
+      
+    input[type=button]:hover {
+    
+    
+        opacity: 0.8
+        
+        
+        }
+        
+        

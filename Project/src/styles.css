@@ -1,0 +1,23 @@
+/* You can add global styles to this file, and also import other style files */
+
+/* Global Styles */
+
+
+@import "~@angular/material/prebuilt-themes/indigo-pink.css";
+
+
+ .bg-custom-sky {
+    background-color:lightseagreen;
+}
+
+.bg-grey {
+    background-color: #f2f2f2;
+}
+
+.header-btn {
+    color:white;
+}
+
+.header-btn:hover {
+    color:lightseagreen;
+}

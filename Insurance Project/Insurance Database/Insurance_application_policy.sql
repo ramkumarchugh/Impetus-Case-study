@@ -1,0 +1,60 @@
+-- MySQL dump 10.13  Distrib 5.7.26, for Linux (x86_64)
+--
+-- Host: localhost    Database: Insurance
+-- ------------------------------------------------------
+-- Server version	5.7.26-0ubuntu0.16.04.1
+
+/*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */;
+/*!40101 SET @OLD_CHARACTER_SET_RESULTS=@@CHARACTER_SET_RESULTS */;
+/*!40101 SET @OLD_COLLATION_CONNECTION=@@COLLATION_CONNECTION */;
+/*!40101 SET NAMES utf8 */;
+/*!40103 SET @OLD_TIME_ZONE=@@TIME_ZONE */;
+/*!40103 SET TIME_ZONE='+00:00' */;
+/*!40014 SET @OLD_UNIQUE_CHECKS=@@UNIQUE_CHECKS, UNIQUE_CHECKS=0 */;
+/*!40014 SET @OLD_FOREIGN_KEY_CHECKS=@@FOREIGN_KEY_CHECKS, FOREIGN_KEY_CHECKS=0 */;
+/*!40101 SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='NO_AUTO_VALUE_ON_ZERO' */;
+/*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;
+
+--
+-- Table structure for table `application_policy`
+--
+
+DROP TABLE IF EXISTS `application_policy`;
+/*!40101 SET @saved_cs_client     = @@character_set_client */;
+/*!40101 SET character_set_client = utf8 */;
+CREATE TABLE `application_policy` (
+  `application_id` int(11) NOT NULL AUTO_INCREMENT,
+  `status` varchar(255) DEFAULT NULL,
+  `user_id` int(11) NOT NULL,
+  `salary` int(11) DEFAULT NULL,
+  `sum_assured` int(11) DEFAULT NULL,
+  `age` int(11) DEFAULT NULL,
+  `no_of_years` int(11) DEFAULT NULL,
+  `no_of_dependents` int(11) DEFAULT NULL,
+  `premium` int(11) DEFAULT NULL,
+  PRIMARY KEY (`application_id`),
+  KEY `user_id_idx` (`user_id`),
+  CONSTRAINT `user_id` FOREIGN KEY (`user_id`) REFERENCES `user` (`user_id`) ON DELETE NO ACTION ON UPDATE NO ACTION
+) ENGINE=InnoDB AUTO_INCREMENT=363 DEFAULT CHARSET=latin1;
+/*!40101 SET character_set_client = @saved_cs_client */;
+
+--
+-- Dumping data for table `application_policy`
+--
+
+LOCK TABLES `application_policy` WRITE;
+/*!40000 ALTER TABLE `application_policy` DISABLE KEYS */;
+INSERT INTO `application_policy` VALUES (138,'Auto approved',137,80000000,1387548,18,2,1,21874),(144,'approved',137,5000,1421332,156,1,0,10106),(146,'approved',141,5000,1000000,18,1,0,6000),(153,'approved',137,5000,1000000,18,1,0,6000),(157,'rejected',137,5000,900000,18,1,0,5500),(162,'rejected',161,30000,2000000,105,2,0,26000),(169,'Auto approved',168,55000,584990,18,1,1,0),(172,'rejected',168,5000,500000,18,1,1,6500),(179,'approved',137,5000,1000000,18,1,1,9000),(182,'approved',137,5000,500000,18,1,1,6500),(190,'approved',189,5000,1000000,18,1,1,9000),(195,'approved',194,5000,500000,18,1,1,6500),(197,'approved',194,5000,1000000,18,1,0,6000),(200,'rejected',199,-9,500000,18,1,1,6500),(206,'approved',137,5000,800000,18,1,0,5000),(212,'rejected',211,5000,1444015,18,1,2,14220),(216,'rejected',137,0,1000000,-1,1,0,8000),(219,'rejected',137,526,1000000,120,1,0,8000),(228,'rejected',137,5000,1000000,18,1,0,6000),(231,'rejected',137,5000,1000000,18,1,0,6000),(234,'rejected',141,5000,500000,18,1,0,3500),(241,'rejected',141,5000,500000,18,1,0,3500),(244,'rejected',141,5000,500000,18,1,0,3500),(247,'approved',141,5000,800000,18,1,0,5000),(250,'approved',141,5000,1000000,18,1,0,6000),(258,'rejected',141,5000,500000,18,1,0,3500),(262,'rejected',137,5000,1000000,18,1,0,6000),(265,'rejected',137,5000,500000,18,1,0,3500),(270,'approved',141,5000,1000000,18,1,0,6000),(273,'rejected',141,5000,500000,18,1,0,3500),(276,'approved',141,5000,800000,18,1,0,5000),(280,'approved',137,5000,1000000,18,1,0,6000),(287,'rejected',137,5000,1000000,18,1,1,9000),(291,'approved',137,5000,1000000,18,1,1,9000),(293,'rejected',137,5000,1000000,18,1,1,9000),(296,'Under Review',137,5000,500000,18,1,1,6500),(299,'Under Review',137,5000,1000000,18,1,1,9000),(302,'rejected',137,5000,1000000,18,1,1,9000),(304,'Under Review',137,5000,1000000,18,1,1,9000),(307,'Under Review',137,5000,800000,18,1,2,11000),(311,'rejected',137,5000,1000000,18,1,0,6000),(313,'Under Review',137,5000,1000000,18,1,0,6000),(315,'Under Review',141,5000,1000000,18,1,0,6000),(332,'Under Review',331,5000,500000,18,1,0,3500),(335,'Under Review',137,5000,1000000,18,1,0,6000),(340,'Under Review',137,5000,1000000,18,1,1,9000),(344,'approved',137,5000,1000000,18,1,1,9000),(350,'Auto approved',348,500023,1239382,20,2,1,20392),(355,'Under Review',354,5000,500000,18,1,0,3500),(359,'rejected',358,28000,1237934,21,3,0,21567),(362,'Under Review',358,5000,1000000,18,1,0,6000);
+/*!40000 ALTER TABLE `application_policy` ENABLE KEYS */;
+UNLOCK TABLES;
+/*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
+
+/*!40101 SET SQL_MODE=@OLD_SQL_MODE */;
+/*!40014 SET FOREIGN_KEY_CHECKS=@OLD_FOREIGN_KEY_CHECKS */;
+/*!40014 SET UNIQUE_CHECKS=@OLD_UNIQUE_CHECKS */;
+/*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
+/*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
+/*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
+/*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
+
+-- Dump completed on 2019-08-08 12:48:38

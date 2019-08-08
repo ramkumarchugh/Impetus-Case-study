@@ -1,0 +1,319 @@
+<div style="width:70%" class="container">
+
+    <form [formGroup]="premiumForm" class="alert alert-info">
+
+        <h2><strong>{{this.policy['name']}}</strong></h2>
+
+        <div class="form-group">
+
+           <b> <span for="sumAssured">Sum Assured Value:</span>
+            {{premiumForm.get('sumAssured').value}}</b>
+
+            <ng5-slider [options]="options" formControlName="sumAssured"></ng5-slider>
+
+        </div>
+
+        <!-- <div class="form-group">
+    
+    <label for="noOfDependents">Number of Dependents</label>
+    
+    <select id="noOfDependents" name="noOfDependents" class="form-control" formControlName="noOfDependents">
+    
+    <option *ngFor="let x of genArray(maxDependent)">
+    
+    {{x}}
+    
+    </option>
+    
+    </select>
+    
+    </div> -->
+
+        <div class="form-group">
+
+            <label for="noOfYears">Number of Years</label>
+
+            <select id="noOfYears" name="noOfYears" class="form-control" formControlName="noOfYears">
+
+                <option *ngFor="let x of genArray(maxYears)">
+
+                    {{x+1}}
+
+                </option>
+
+            </select>
+
+        </div>
+
+
+
+
+
+
+
+        <div class="form-group">
+
+            <label for="age">Age</label>
+
+            <input type="number" class="form-control" name="age" min="18" max="120" formControlName="age" oninput="validity.valid||(value='');"
+                >
+                <!-- oninput="validity.valid||(value='');" -->
+
+        </div>
+
+        <div class="form-group">
+
+            <label for="salary">Applicant's Salary:</label>
+
+            <input type="number" class="form-control" id="salary" formControlName="salary" min="5000" >
+
+        </div>
+
+        <div class="form-group">
+
+            <label for="applicantname">Applicant Name:</label>
+
+            <input type="name" class="form-control" id="applicantname" formControlName="applicantname" value="{{getName}}">
+            <!-- <div *ngIf="applicantname.invalid && applicantname.touched">
+    
+                    <small class="text-danger" *ngIf="applicantname.errors?.required">Username is required</small>
+                    
+                    <small class="text-danger" *ngIf="applicantname.errors?.minlength">Username must be at least 3 characters</small>
+            </div>        -->
+        </div>
+
+
+
+
+
+
+
+        <div>
+
+
+
+
+            <button type="button" class="btn btn-primary" (click)="addDependent()">Add
+                Dependent</button>
+
+            <div formArrayName="dependents">
+
+
+
+
+                <div class="mt-2 mb-2 border-right border-bottom" *ngFor="let dependent of premiumForm.get('dependents').controls;
+    
+    let i=index">
+
+                    <fieldset>
+
+
+
+
+                        <div [formGroupName]="i">
+
+
+
+
+                            <div class="form-inline">
+
+                                <div class="form-row">
+
+
+
+
+                                    <div class="form-group">
+
+
+
+
+                                        <label for="name" class="mr-2">Dependent Name:</label>
+
+                                        <div class="col">
+
+
+
+
+                                            <input type="name" class="form-control" id="name" formControlName="dependentName">
+
+                                        </div>
+
+                                    </div>
+
+
+
+
+                                    <div class="form-group">
+
+
+
+
+                                        <label for="age" class="mr-2">Dependent Age:</label>
+
+                                        <div class="col">
+
+
+
+
+                                            <input type="number" min=18 class="form-control" id="age"
+                                                formControlName="age">
+
+                                        </div>
+
+                                    </div>
+
+                                </div>
+                                <br>
+                                
+                                <div class="form-row">
+
+                                    <div class="form-group">
+
+                                        <label style="display:inline-table" for="state" class="mr-2">State:</label>
+
+                                        <div class="col">
+
+                                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+                                            <input type="text" id="state" class="form-control" formControlName="state">
+
+                                        </div>
+
+                                    </div>
+
+                                    <div class="form-group">
+                                        <label for="city" class="mr-2">City:</label>
+
+                                        <div class="col">
+
+                                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                            <input type="text" id="city" formControlName="city" class="form-control">
+
+                                        </div>
+
+                                    </div>
+
+                                </div>
+                                <br>
+
+
+
+                                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&ensp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+                                <div class="form-row">
+
+
+
+
+                                    <div class="form-group">
+
+
+
+
+                                        <label for="address" class="mr-2">Address:</label>
+
+                                        <div class="col">
+
+                                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+                                            <input type="text" id="address" formControlName="address"
+                                                class="form-control">
+
+                                        </div>
+
+                                    </div>
+
+                                    <div class="form-group">
+
+
+
+
+                                        <label for="relation" class="mr-2">
+
+                                            Relation:</label>
+
+                                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+                                        <div class="col">
+
+
+
+
+                                            <select type="dropdown" id="relation" name="relation" style="width:150%"
+                                                class="btn btn-primary btn-lg" class="form-control"
+                                                formControlName="relation">
+
+
+
+
+                                                <option>Father</option>
+
+                                                <option>Mother</option>
+
+                                                <option>Spouse</option>
+
+                                                <option>Brother</option>
+
+                                                <option>Sister</option>
+
+                                                <option>Son</option>
+
+                                                <option>Daughter</option>
+
+                                                <option>Other</option>
+
+                                            </select>
+
+                                        </div>
+
+                                    </div>
+
+                                </div>
+
+                            </div>
+
+                            <button type="button" class="btn btn-danger btn-sm text-white mb-2"
+                                (click)="deleteDependent(i)">Delete Dependent</button>
+
+                        </div>
+
+
+
+
+                    </fieldset>
+
+                </div>
+
+            </div>
+
+            <br>
+
+            <div>
+
+                <button type="button" class="btn btn-primary btn-center" (click)="calculatePremium()">Calculate
+
+                    Premium</button>
+
+            </div>
+
+            <div class="form-group custom-width-30" *ngIf="applyEnable">
+
+                    <b>  <span class="form-text">Premium : {{premiumValue}}</span></b>
+
+            </div>
+
+
+
+
+            <div style="text-align: center">
+
+                <button type="button" class="btn btn-primary btn-center" (click)="apply()"
+                    [disabled]="!applyEnable">Apply</button>
+
+            </div>
+
+        </div>
+
+    </form>
+
+</div>

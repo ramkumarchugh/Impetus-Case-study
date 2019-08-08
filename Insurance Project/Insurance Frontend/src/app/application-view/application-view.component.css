@@ -1,0 +1,14 @@
+table {
+    width: 100%;
+  }
+  
+  th.mat-sort-header-sorted {
+    color: grey;
+  }
+  /* .border-3 {
+    border-width:3px !important;
+} */
+  /* table, th , td  {
+    border: 1px solid lightseagreen;
+    
+} */

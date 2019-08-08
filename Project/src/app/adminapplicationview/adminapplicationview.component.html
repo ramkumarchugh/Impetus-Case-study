@@ -1,0 +1,100 @@
+
+<div class="mat-elevation-z8" >
+        <div class="mat-elevation-z8">
+                <div  class="mat-toolbar-tools search-bar">
+                        <!-- <button mat-button class="mat-icon-button">
+                         <mat-icon>search</mat-icon>
+                        </button> -->
+           &nbsp;
+            <mat-form-field flex>
+            <input matInput (keyup)="applyFilter($event.target.value)" placeholder="Search">
+            </mat-form-field>
+                  </div>
+    
+    <table mat-table [dataSource]="dataSource" matSort matSort class="mat-elevation-z8">        
+            <h2>Application List </h2>
+            <br>
+
+    <!-- Position Column -->
+    <!-- <ng-container matColumnDef="applicantname">
+    <th mat-header-cell *matHeaderCellDef mat-sort-header> applicantname </th>
+    <td mat-cell *matCellDef="let element"> {{element.applicantname}} </td>
+    </ng-container> -->
+    <!-- Name Column -->
+<!--     <ng-container matColumnDef="applicationNumber">
+            <mat-header-cell *matHeaderCellDef mat-sort-header> Application Number </mat-header-cell>
+            <mat-cell *matCellDef="let element"> {{element.applicationNumber}} </mat-cell>
+        </ng-container> -->
+        <ng-container matColumnDef="applicationId">
+            <mat-header-cell *matHeaderCellDef mat-sort-header> ApplicationId </mat-header-cell>
+            <mat-cell *matCellDef="let element"> {{element.applicationId}} </mat-cell>
+        </ng-container>
+    
+    <ng-container matColumnDef="user.name">
+        <mat-header-cell *matHeaderCellDef mat-sort-header> UserName </mat-header-cell>
+        <mat-cell *matCellDef="let element"> {{element.user.name}} </mat-cell>
+    </ng-container>
+
+    <ng-container matColumnDef="sumAssured">
+        <mat-header-cell *matHeaderCellDef mat-sort-header> Sum Assured </mat-header-cell>
+        <mat-cell *matCellDef="let element"> {{element.sumAssured}} </mat-cell>
+    </ng-container>
+    <!-- Weight Column -->
+    <ng-container matColumnDef="noOfYears">
+        <mat-header-cell *matHeaderCellDef mat-sort-header> Maturity </mat-header-cell>
+        <mat-cell *matCellDef="let element"> {{element.noOfYears}} </mat-cell>
+    </ng-container>
+    <ng-container matColumnDef="age">
+        <mat-header-cell *matHeaderCellDef mat-sort-header> Age </mat-header-cell>
+        <mat-cell *matCellDef="let element"> {{element.age}} </mat-cell>
+    </ng-container>
+
+    <!-- <ng-container matColumnDef="dependent">
+    <th mat-header-cell *matHeaderCellDef mat-sort-header> dependent </th>
+    <td mat-cell *matCellDef="let element"> {{element.dependent}} </td>
+    </ng-container> -->
+
+
+    <ng-container matColumnDef="premium">
+        <mat-header-cell *matHeaderCellDef mat-sort-header> Premium </mat-header-cell>
+        <mat-cell *matCellDef="let element"> {{element.premium}} </mat-cell>
+    </ng-container>
+
+    <ng-container matColumnDef="salary">
+        <mat-header-cell *matHeaderCellDef mat-sort-header> Salary </mat-header-cell>
+        <mat-cell *matCellDef="let element"> {{element.salary}} </mat-cell>
+    </ng-container>
+
+    <ng-container matColumnDef="noOfDependents">
+        <mat-header-cell *matHeaderCellDef mat-sort-header> No of Dependents </mat-header-cell>
+        <mat-cell *matCellDef="let element"> {{element.noOfDependents}} </mat-cell>
+    </ng-container>
+
+    <!-- <ng-container matColumnDef="sum assured">
+    <th mat-header-cell *matHeaderCellDef mat-sort-header> Sum Assured </th>
+    <td mat-cell *matCellDef="let element"> {{element.symbol}} </td>
+    </ng-container> --> 
+
+    <ng-container matColumnDef="status">
+        <mat-header-cell *matHeaderCellDef mat-sort-header> Status </mat-header-cell>
+        <mat-cell *matCellDef="let element"> {{element.status}} </mat-cell>
+    </ng-container>
+
+    <ng-container matColumnDef="workflow">
+            <mat-header-cell *matHeaderCellDef > WorkFlow  </mat-header-cell>
+            <mat-cell *matCellDef="let element"> 
+
+
+    <!-- <button mat-raised-button style="background-color: lightseagreen; color:white;" data-toggle="modal"
+                    data-target="#workflowModal" (click)=showWorkflow(element)>Workflow</button>
+     -->
+
+            </mat-cell>
+    </ng-container>
+    <mat-header-row *matHeaderRowDef="displayedColumns"></mat-header-row>
+    <mat-row *matRowDef="let row; columns: displayedColumns;"></mat-row>
+</table>
+<mat-paginator [pageSizeOptions]="[7, 14, 21]" showFirstLastButtons></mat-paginator>
+
+</div>
+
