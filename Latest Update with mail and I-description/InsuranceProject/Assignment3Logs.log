@@ -1,0 +1,504 @@
+2019-08-02 10:21:07 INFO  AutoApprovalServiceImpl:34 - schedular is invoked
+2019-08-02 10:21:08 INFO  AutoApprovalServiceImpl:34 - schedular is invoked
+2019-08-02 10:21:09 INFO  AutoApprovalServiceImpl:34 - schedular is invoked
+2019-08-02 10:21:10 INFO  AutoApprovalServiceImpl:34 - schedular is invoked
+2019-08-02 10:21:11 INFO  AutoApprovalServiceImpl:34 - schedular is invoked
+2019-08-02 10:21:12 INFO  AutoApprovalServiceImpl:34 - schedular is invoked
+2019-08-02 10:21:13 INFO  AutoApprovalServiceImpl:34 - schedular is invoked
+2019-08-02 10:21:14 INFO  AutoApprovalServiceImpl:34 - schedular is invoked
+2019-08-02 10:21:15 INFO  AutoApprovalServiceImpl:34 - schedular is invoked
+2019-08-02 10:21:16 INFO  AutoApprovalServiceImpl:34 - schedular is invoked
+2019-08-02 10:21:17 INFO  AutoApprovalServiceImpl:34 - schedular is invoked
+2019-08-02 10:21:18 INFO  AutoApprovalServiceImpl:34 - schedular is invoked
+2019-08-02 10:21:19 INFO  AutoApprovalServiceImpl:34 - schedular is invoked
+2019-08-02 10:21:20 INFO  AutoApprovalServiceImpl:34 - schedular is invoked
+2019-08-02 10:21:21 INFO  AutoApprovalServiceImpl:34 - schedular is invoked
+2019-08-02 10:21:22 INFO  AutoApprovalServiceImpl:34 - schedular is invoked
+2019-08-02 10:21:23 INFO  AutoApprovalServiceImpl:34 - schedular is invoked
+2019-08-02 10:21:24 INFO  AutoApprovalServiceImpl:34 - schedular is invoked
+2019-08-02 10:21:25 INFO  AutoApprovalServiceImpl:34 - schedular is invoked
+2019-08-02 10:21:26 INFO  AutoApprovalServiceImpl:34 - schedular is invoked
+2019-08-02 10:21:27 INFO  AutoApprovalServiceImpl:34 - schedular is invoked
+2019-08-02 10:21:28 INFO  AutoApprovalServiceImpl:34 - schedular is invoked
+2019-08-02 10:21:29 INFO  AutoApprovalServiceImpl:34 - schedular is invoked
+2019-08-02 10:21:30 INFO  AutoApprovalServiceImpl:34 - schedular is invoked
+2019-08-02 10:21:31 INFO  AutoApprovalServiceImpl:34 - schedular is invoked
+2019-08-02 10:21:32 INFO  AutoApprovalServiceImpl:34 - schedular is invoked
+2019-08-02 10:21:33 INFO  AutoApprovalServiceImpl:34 - schedular is invoked
+2019-08-02 10:21:34 INFO  AutoApprovalServiceImpl:34 - schedular is invoked
+2019-08-02 10:21:35 INFO  AutoApprovalServiceImpl:34 - schedular is invoked
+2019-08-02 10:21:36 INFO  AutoApprovalServiceImpl:34 - schedular is invoked
+2019-08-02 10:21:37 INFO  AutoApprovalServiceImpl:34 - schedular is invoked
+2019-08-02 10:21:38 INFO  AutoApprovalServiceImpl:34 - schedular is invoked
+2019-08-02 10:21:39 INFO  AutoApprovalServiceImpl:34 - schedular is invoked
+2019-08-02 10:21:40 INFO  AutoApprovalServiceImpl:34 - schedular is invoked
+2019-08-02 10:24:00 INFO  AutoApprovalServiceImpl:34 - schedular is invoked
+2019-08-02 10:24:18 INFO  UserController:74 - UserController - Get user details by id is invoked.
+2019-08-02 10:24:24 INFO  UserController:48 - UserController - Get all users service is invoked.
+2019-08-02 10:25:08 INFO  ApplicationController:83 - ApplicationController - Get application by user id is invoked 
+2019-08-02 10:25:22 INFO  ApplicationController:83 - ApplicationController - Get application by user id is invoked 
+2019-08-02 10:25:26 INFO  ApplicationController:83 - ApplicationController - Get application by user id is invoked 
+2019-08-02 10:28:00 INFO  AutoApprovalServiceImpl:34 - schedular is invoked
+2019-08-02 10:32:00 INFO  AutoApprovalServiceImpl:34 - schedular is invoked
+2019-08-02 10:36:00 INFO  AutoApprovalServiceImpl:34 - schedular is invoked
+2019-08-02 10:40:00 INFO  AutoApprovalServiceImpl:34 - schedular is invoked
+2019-08-02 10:44:00 INFO  AutoApprovalServiceImpl:34 - schedular is invoked
+2019-08-02 10:48:00 INFO  AutoApprovalServiceImpl:34 - schedular is invoked
+2019-08-02 10:52:00 INFO  AutoApprovalServiceImpl:34 - schedular is invoked
+2019-08-02 10:56:00 INFO  AutoApprovalServiceImpl:34 - schedular is invoked
+2019-08-02 11:00:00 INFO  AutoApprovalServiceImpl:34 - schedular is invoked
+2019-08-02 11:04:00 INFO  AutoApprovalServiceImpl:34 - schedular is invoked
+2019-08-02 11:08:00 INFO  AutoApprovalServiceImpl:34 - schedular is invoked
+2019-08-02 11:12:00 INFO  AutoApprovalServiceImpl:34 - schedular is invoked
+2019-08-02 11:16:00 INFO  AutoApprovalServiceImpl:34 - schedular is invoked
+2019-08-02 11:20:00 INFO  AutoApprovalServiceImpl:34 - schedular is invoked
+2019-08-02 11:24:00 INFO  AutoApprovalServiceImpl:34 - schedular is invoked
+2019-08-02 11:28:00 INFO  AutoApprovalServiceImpl:34 - schedular is invoked
+2019-08-02 11:32:00 INFO  AutoApprovalServiceImpl:34 - schedular is invoked
+2019-08-02 11:36:00 INFO  AutoApprovalServiceImpl:34 - schedular is invoked
+2019-08-02 11:40:00 INFO  AutoApprovalServiceImpl:34 - schedular is invoked
+2019-08-02 11:44:00 INFO  AutoApprovalServiceImpl:34 - schedular is invoked
+2019-08-02 11:48:00 INFO  AutoApprovalServiceImpl:34 - schedular is invoked
+2019-08-02 12:07:19 INFO  UserController:51 - UserController - Get all users service is invoked.
+2019-08-02 12:08:00 INFO  AutoApprovalServiceImpl:34 - schedular is invoked
+2019-08-02 12:12:00 INFO  AutoApprovalServiceImpl:34 - schedular is invoked
+2019-08-02 12:16:00 INFO  AutoApprovalServiceImpl:34 - schedular is invoked
+2019-08-02 15:05:39 INFO  ApplicationController:45 - ApplicationController - Get all applications service is invoked.
+2019-08-02 15:05:51 INFO  ApplicationController:60 - ApplicationController - Get application details by id is invoked.
+2019-08-02 15:08:00 INFO  AutoApprovalServiceImpl:34 - schedular is invoked
+2019-08-02 15:09:22 INFO  ApplicationController:60 - ApplicationController - Get application details by id is invoked.
+2019-08-02 15:09:35 INFO  ApplicationController:166 - ApplicationController - Get all workflows service is invoked.
+2019-08-02 15:12:00 INFO  AutoApprovalServiceImpl:34 - schedular is invoked
+2019-08-02 15:15:59 INFO  ApplicationController:60 - ApplicationController - Get application details by id is invoked.
+2019-08-02 15:16:00 INFO  AutoApprovalServiceImpl:34 - schedular is invoked
+2019-08-02 15:18:32 INFO  ApplicationController:45 - ApplicationController - Get all applications service is invoked.
+2019-08-02 15:20:00 INFO  AutoApprovalServiceImpl:34 - schedular is invoked
+2019-08-02 15:24:00 INFO  AutoApprovalServiceImpl:34 - schedular is invoked
+2019-08-02 15:26:21 INFO  UserAuthenticationService:33 - getting user details:saharsh@gmail.com
+2019-08-02 15:26:21 INFO  UserAuthenticationService:35 - found user details:User [userId=52, name=Saharsh, email=saharsh@gmail.com, city=indore, state=MP, address=bawarkua, dob=2019-08-13, mobNo=9876543210, role=Role [roleId=3, roleName=User]]
+2019-08-02 15:26:21 INFO  ApplicationController:45 - ApplicationController - Get all applications service is invoked.
+2019-08-02 15:28:00 INFO  AutoApprovalServiceImpl:34 - schedular is invoked
+2019-08-02 15:28:07 INFO  ApplicationController:45 - ApplicationController - Get all applications service is invoked.
+2019-08-02 15:32:00 INFO  AutoApprovalServiceImpl:34 - schedular is invoked
+2019-08-02 15:36:00 INFO  AutoApprovalServiceImpl:34 - schedular is invoked
+2019-08-02 15:40:00 INFO  AutoApprovalServiceImpl:34 - schedular is invoked
+2019-08-02 15:44:00 INFO  AutoApprovalServiceImpl:34 - schedular is invoked
+2019-08-02 15:48:00 INFO  AutoApprovalServiceImpl:34 - schedular is invoked
+2019-08-02 15:49:12 INFO  ApplicationController:45 - ApplicationController - Get all applications service is invoked.
+2019-08-02 15:52:00 INFO  AutoApprovalServiceImpl:34 - schedular is invoked
+2019-08-02 15:56:00 INFO  AutoApprovalServiceImpl:34 - schedular is invoked
+2019-08-02 15:57:21 INFO  UserAuthenticationService:33 - getting user details:
+2019-08-02 15:57:22 INFO  UserAuthenticationService:35 - found user details:null
+2019-08-02 15:57:31 INFO  ApplicationController:45 - ApplicationController - Get all applications service is invoked.
+2019-08-02 15:59:49 INFO  UserController:51 - UserController - Get all users service is invoked.
+2019-08-02 16:00:00 INFO  AutoApprovalServiceImpl:34 - schedular is invoked
+2019-08-02 16:04:00 INFO  AutoApprovalServiceImpl:34 - schedular is invoked
+2019-08-02 16:08:00 INFO  AutoApprovalServiceImpl:34 - schedular is invoked
+2019-08-02 16:12:00 INFO  AutoApprovalServiceImpl:34 - schedular is invoked
+2019-08-02 16:16:00 INFO  AutoApprovalServiceImpl:34 - schedular is invoked
+2019-08-02 16:18:12 INFO  UserController:114 - UserController - Create new user method is invoked.
+2019-08-02 16:18:55 INFO  UserAuthenticationService:33 - getting user details:div@gmail.com
+2019-08-02 16:18:55 INFO  UserAuthenticationService:35 - found user details:User [userId=71, name=divyansh, email=div@gmail.com, city=indore, state=MP, address=hbvasdh, dob=1998-02-22, mobNo=9876543210, role=Role [roleId=3, roleName=User]]
+2019-08-02 16:20:00 INFO  AutoApprovalServiceImpl:34 - schedular is invoked
+2019-08-02 16:24:00 INFO  AutoApprovalServiceImpl:34 - schedular is invoked
+2019-08-02 16:28:00 INFO  AutoApprovalServiceImpl:34 - schedular is invoked
+2019-08-02 16:32:00 INFO  AutoApprovalServiceImpl:34 - schedular is invoked
+2019-08-02 16:36:00 INFO  AutoApprovalServiceImpl:34 - schedular is invoked
+2019-08-02 16:39:26 INFO  UserAuthenticationService:33 - getting user details:div@gmail.com
+2019-08-02 16:39:26 INFO  UserAuthenticationService:35 - found user details:User [userId=71, name=divyansh, email=div@gmail.com, city=indore, state=MP, address=hbvasdh, dob=1998-02-22, mobNo=9876543210, role=Role [roleId=3, roleName=User]]
+2019-08-02 16:39:26 INFO  UserController:51 - UserController - Get all users service is invoked.
+2019-08-02 16:40:00 INFO  AutoApprovalServiceImpl:34 - schedular is invoked
+2019-08-02 16:44:00 INFO  AutoApprovalServiceImpl:34 - schedular is invoked
+2019-08-02 16:44:37 INFO  UserController:51 - UserController - Get all users service is invoked.
+2019-08-02 16:48:00 INFO  AutoApprovalServiceImpl:34 - schedular is invoked
+2019-08-02 16:52:00 INFO  AutoApprovalServiceImpl:34 - schedular is invoked
+2019-08-02 16:56:00 INFO  AutoApprovalServiceImpl:34 - schedular is invoked
+2019-08-02 17:00:00 INFO  AutoApprovalServiceImpl:34 - schedular is invoked
+2019-08-02 17:04:00 INFO  AutoApprovalServiceImpl:34 - schedular is invoked
+2019-08-02 17:08:00 INFO  AutoApprovalServiceImpl:34 - schedular is invoked
+2019-08-02 17:12:00 INFO  AutoApprovalServiceImpl:34 - schedular is invoked
+2019-08-02 17:16:00 INFO  AutoApprovalServiceImpl:34 - schedular is invoked
+2019-08-02 17:19:00 INFO  UserController:51 - UserController - Get all users service is invoked.
+2019-08-02 17:20:00 INFO  AutoApprovalServiceImpl:34 - schedular is invoked
+2019-08-02 17:34:00 INFO  UserController:51 - UserController - Get all users service is invoked.
+2019-08-02 17:34:11 INFO  UserController:78 - UserController - Get user details by id is invoked.
+2019-08-02 17:36:00 INFO  AutoApprovalServiceImpl:34 - schedular is invoked
+2019-08-02 17:40:00 INFO  AutoApprovalServiceImpl:34 - schedular is invoked
+2019-08-02 17:44:00 INFO  AutoApprovalServiceImpl:34 - schedular is invoked
+2019-08-02 17:48:00 INFO  AutoApprovalServiceImpl:34 - schedular is invoked
+2019-08-02 17:52:00 INFO  AutoApprovalServiceImpl:34 - schedular is invoked
+2019-08-02 17:56:00 INFO  AutoApprovalServiceImpl:34 - schedular is invoked
+2019-08-02 18:00:00 INFO  AutoApprovalServiceImpl:34 - schedular is invoked
+2019-08-02 18:04:00 INFO  AutoApprovalServiceImpl:34 - schedular is invoked
+2019-08-02 18:08:00 INFO  AutoApprovalServiceImpl:34 - schedular is invoked
+2019-08-02 18:12:00 INFO  AutoApprovalServiceImpl:34 - schedular is invoked
+2019-08-02 18:16:00 INFO  AutoApprovalServiceImpl:34 - schedular is invoked
+2019-08-02 18:20:00 INFO  AutoApprovalServiceImpl:34 - schedular is invoked
+2019-08-02 18:24:00 INFO  AutoApprovalServiceImpl:34 - schedular is invoked
+2019-08-02 18:24:08 INFO  UserAuthenticationService:33 - getting user details:div@gmail.com
+2019-08-02 18:24:09 INFO  UserAuthenticationService:35 - found user details:User [userId=71, name=divyansh, email=div@gmail.com, city=indore, state=MP, address=hbvasdh, dob=1998-02-22, mobNo=9876543210, role=Role [roleId=3, roleName=User]]
+2019-08-02 18:24:09 INFO  ApplicationController:45 - ApplicationController - Get all applications service is invoked.
+2019-08-02 18:24:18 INFO  ApplicationController:179 - ApplicationController - Get workflow details by id is invoked.
+2019-08-02 18:24:35 INFO  ApplicationController:200 - ApplicationController - Get workflow by application id is invoked 
+2019-08-02 18:28:00 INFO  AutoApprovalServiceImpl:34 - schedular is invoked
+2019-08-02 18:32:00 INFO  AutoApprovalServiceImpl:34 - schedular is invoked
+2019-08-02 18:36:00 INFO  AutoApprovalServiceImpl:34 - schedular is invoked
+2019-08-02 18:37:49 INFO  UserAuthenticationService:33 - getting user details:divyansh@gmail.com
+2019-08-02 18:37:49 INFO  UserAuthenticationService:35 - found user details:User [userId=45, name=divyasnhsfd, email=divyansh@gmail.com, city=indr, state=MP, address=226, dob=1997-10-03, mobNo=992, role=Role [roleId=3, roleName=User]]
+2019-08-02 18:38:06 INFO  InsuranceTypeController:137 - InsuranceTypeController - Calculate premium new  method is invoked.
+2019-08-02 18:38:34 INFO  InsuranceTypeController:137 - InsuranceTypeController - Calculate premium new  method is invoked.
+2019-08-02 18:38:35 INFO  ApplicationController:116 - ApplicationController - Create new application method is invoked.
+2019-08-02 18:39:04 INFO  InsuranceTypeController:137 - InsuranceTypeController - Calculate premium new  method is invoked.
+2019-08-02 18:39:04 INFO  ApplicationController:116 - ApplicationController - Create new application method is invoked.
+2019-08-02 18:39:10 INFO  ApplicationController:83 - ApplicationController - Get application by user id is invoked 
+2019-08-02 18:39:10 INFO  ApplicationController:83 - ApplicationController - Get application by user id is invoked 
+2019-08-02 18:40:00 INFO  AutoApprovalServiceImpl:34 - schedular is invoked
+2019-08-02 18:40:43 INFO  ApplicationController:83 - ApplicationController - Get application by user id is invoked 
+2019-08-02 18:40:43 INFO  ApplicationController:83 - ApplicationController - Get application by user id is invoked 
+2019-08-02 18:40:47 INFO  ApplicationController:83 - ApplicationController - Get application by user id is invoked 
+2019-08-02 18:40:47 INFO  ApplicationController:83 - ApplicationController - Get application by user id is invoked 
+2019-08-02 18:40:58 INFO  ApplicationController:83 - ApplicationController - Get application by user id is invoked 
+2019-08-02 18:40:58 INFO  ApplicationController:83 - ApplicationController - Get application by user id is invoked 
+2019-08-02 18:41:17 INFO  ApplicationController:83 - ApplicationController - Get application by user id is invoked 
+2019-08-02 18:41:17 INFO  ApplicationController:83 - ApplicationController - Get application by user id is invoked 
+2019-08-02 18:42:08 INFO  UserAuthenticationService:33 - getting user details:saharsh@gmail.com
+2019-08-02 18:42:08 INFO  UserAuthenticationService:35 - found user details:User [userId=52, name=Saharsh, email=saharsh@gmail.com, city=indore, state=MP, address=bawarkua, dob=2019-08-13, mobNo=9876543210, role=Role [roleId=3, roleName=User]]
+2019-08-02 18:42:11 INFO  ApplicationController:83 - ApplicationController - Get application by user id is invoked 
+2019-08-02 18:42:11 INFO  ApplicationController:83 - ApplicationController - Get application by user id is invoked 
+2019-08-02 18:42:30 INFO  ApplicationController:83 - ApplicationController - Get application by user id is invoked 
+2019-08-02 18:42:30 INFO  ApplicationController:83 - ApplicationController - Get application by user id is invoked 
+2019-08-02 18:42:32 INFO  ApplicationController:83 - ApplicationController - Get application by user id is invoked 
+2019-08-02 18:42:32 INFO  ApplicationController:83 - ApplicationController - Get application by user id is invoked 
+2019-08-02 18:44:00 INFO  AutoApprovalServiceImpl:34 - schedular is invoked
+2019-08-02 18:47:37 INFO  ApplicationController:83 - ApplicationController - Get application by user id is invoked 
+2019-08-02 18:47:37 INFO  ApplicationController:83 - ApplicationController - Get application by user id is invoked 
+2019-08-02 18:47:41 INFO  ApplicationController:83 - ApplicationController - Get application by user id is invoked 
+2019-08-02 18:47:41 INFO  ApplicationController:83 - ApplicationController - Get application by user id is invoked 
+2019-08-02 18:48:00 INFO  AutoApprovalServiceImpl:34 - schedular is invoked
+2019-08-02 18:48:35 INFO  ApplicationController:83 - ApplicationController - Get application by user id is invoked 
+2019-08-02 18:48:40 INFO  ApplicationController:83 - ApplicationController - Get application by user id is invoked 
+2019-08-02 18:48:42 INFO  ApplicationController:83 - ApplicationController - Get application by user id is invoked 
+2019-08-02 18:48:46 INFO  ApplicationController:83 - ApplicationController - Get application by user id is invoked 
+2019-08-02 18:49:26 INFO  ApplicationController:83 - ApplicationController - Get application by user id is invoked 
+2019-08-02 18:49:39 INFO  ApplicationController:83 - ApplicationController - Get application by user id is invoked 
+2019-08-02 18:49:42 INFO  ApplicationController:83 - ApplicationController - Get application by user id is invoked 
+2019-08-02 18:49:44 INFO  ApplicationController:83 - ApplicationController - Get application by user id is invoked 
+2019-08-02 18:49:54 INFO  ApplicationController:83 - ApplicationController - Get application by user id is invoked 
+2019-08-02 18:50:04 INFO  ApplicationController:83 - ApplicationController - Get application by user id is invoked 
+2019-08-02 18:50:04 INFO  ApplicationController:83 - ApplicationController - Get application by user id is invoked 
+2019-08-02 18:50:14 INFO  ApplicationController:83 - ApplicationController - Get application by user id is invoked 
+2019-08-02 18:50:14 INFO  ApplicationController:83 - ApplicationController - Get application by user id is invoked 
+2019-08-02 18:50:35 INFO  ApplicationController:83 - ApplicationController - Get application by user id is invoked 
+2019-08-02 18:50:35 INFO  ApplicationController:83 - ApplicationController - Get application by user id is invoked 
+2019-08-02 18:51:54 INFO  ApplicationController:83 - ApplicationController - Get application by user id is invoked 
+2019-08-02 18:51:54 INFO  ApplicationController:83 - ApplicationController - Get application by user id is invoked 
+2019-08-02 18:52:00 INFO  AutoApprovalServiceImpl:34 - schedular is invoked
+2019-08-02 18:52:11 INFO  ApplicationController:83 - ApplicationController - Get application by user id is invoked 
+2019-08-02 18:52:11 INFO  ApplicationController:83 - ApplicationController - Get application by user id is invoked 
+2019-08-02 18:52:26 INFO  ApplicationController:83 - ApplicationController - Get application by user id is invoked 
+2019-08-02 18:52:26 INFO  ApplicationController:83 - ApplicationController - Get application by user id is invoked 
+2019-08-02 18:53:55 INFO  ApplicationController:83 - ApplicationController - Get application by user id is invoked 
+2019-08-02 18:54:02 INFO  ApplicationController:83 - ApplicationController - Get application by user id is invoked 
+2019-08-02 18:54:12 INFO  ApplicationController:83 - ApplicationController - Get application by user id is invoked 
+2019-08-02 18:54:12 INFO  ApplicationController:83 - ApplicationController - Get application by user id is invoked 
+2019-08-02 18:54:24 INFO  ApplicationController:83 - ApplicationController - Get application by user id is invoked 
+2019-08-02 18:54:24 INFO  ApplicationController:83 - ApplicationController - Get application by user id is invoked 
+2019-08-02 18:55:07 INFO  ApplicationController:83 - ApplicationController - Get application by user id is invoked 
+2019-08-02 18:55:07 INFO  ApplicationController:83 - ApplicationController - Get application by user id is invoked 
+2019-08-02 18:56:00 INFO  AutoApprovalServiceImpl:34 - schedular is invoked
+2019-08-02 18:57:09 INFO  InsuranceTypeController:137 - InsuranceTypeController - Calculate premium new  method is invoked.
+2019-08-02 19:00:00 INFO  AutoApprovalServiceImpl:34 - schedular is invoked
+2019-08-02 19:02:24 INFO  InsuranceTypeController:137 - InsuranceTypeController - Calculate premium new  method is invoked.
+2019-08-02 19:02:24 INFO  ApplicationController:116 - ApplicationController - Create new application method is invoked.
+2019-08-02 19:02:27 INFO  InsuranceTypeController:137 - InsuranceTypeController - Calculate premium new  method is invoked.
+2019-08-02 19:02:27 INFO  ApplicationController:116 - ApplicationController - Create new application method is invoked.
+2019-08-02 19:02:30 INFO  InsuranceTypeController:137 - InsuranceTypeController - Calculate premium new  method is invoked.
+2019-08-02 19:02:30 INFO  ApplicationController:116 - ApplicationController - Create new application method is invoked.
+2019-08-02 19:04:00 INFO  AutoApprovalServiceImpl:34 - schedular is invoked
+2019-08-02 19:05:08 INFO  InsuranceTypeController:137 - InsuranceTypeController - Calculate premium new  method is invoked.
+2019-08-02 19:05:08 INFO  ApplicationController:116 - ApplicationController - Create new application method is invoked.
+2019-08-02 19:05:29 INFO  ApplicationController:83 - ApplicationController - Get application by user id is invoked 
+2019-08-02 19:05:29 INFO  ApplicationController:83 - ApplicationController - Get application by user id is invoked 
+2019-08-02 19:05:46 INFO  ApplicationController:83 - ApplicationController - Get application by user id is invoked 
+2019-08-02 19:05:46 INFO  ApplicationController:83 - ApplicationController - Get application by user id is invoked 
+2019-08-02 19:05:55 INFO  ApplicationController:83 - ApplicationController - Get application by user id is invoked 
+2019-08-02 19:05:57 INFO  ApplicationController:83 - ApplicationController - Get application by user id is invoked 
+2019-08-02 19:08:00 INFO  AutoApprovalServiceImpl:34 - schedular is invoked
+2019-08-02 19:09:09 INFO  ApplicationController:83 - ApplicationController - Get application by user id is invoked 
+2019-08-02 19:09:09 INFO  ApplicationController:83 - ApplicationController - Get application by user id is invoked 
+2019-08-02 19:09:45 INFO  ApplicationController:83 - ApplicationController - Get application by user id is invoked 
+2019-08-02 19:09:45 INFO  ApplicationController:83 - ApplicationController - Get application by user id is invoked 
+2019-08-02 19:10:58 INFO  ApplicationController:83 - ApplicationController - Get application by user id is invoked 
+2019-08-02 19:10:58 INFO  ApplicationController:83 - ApplicationController - Get application by user id is invoked 
+2019-08-02 19:12:00 INFO  AutoApprovalServiceImpl:34 - schedular is invoked
+2019-08-02 19:12:37 INFO  InsuranceTypeController:137 - InsuranceTypeController - Calculate premium new  method is invoked.
+2019-08-02 19:12:56 INFO  InsuranceTypeController:137 - InsuranceTypeController - Calculate premium new  method is invoked.
+2019-08-02 19:12:56 INFO  ApplicationController:116 - ApplicationController - Create new application method is invoked.
+2019-08-02 19:13:25 INFO  InsuranceTypeController:137 - InsuranceTypeController - Calculate premium new  method is invoked.
+2019-08-02 19:13:25 INFO  ApplicationController:116 - ApplicationController - Create new application method is invoked.
+2019-08-02 19:13:32 INFO  InsuranceTypeController:137 - InsuranceTypeController - Calculate premium new  method is invoked.
+2019-08-02 19:13:32 INFO  ApplicationController:116 - ApplicationController - Create new application method is invoked.
+2019-08-02 19:13:41 INFO  ApplicationController:83 - ApplicationController - Get application by user id is invoked 
+2019-08-02 19:13:41 INFO  ApplicationController:83 - ApplicationController - Get application by user id is invoked 
+2019-08-02 19:16:00 INFO  AutoApprovalServiceImpl:34 - schedular is invoked
+2019-08-02 19:16:00 INFO  AutoApprovalServiceImpl:37 - schedular is invoked
+2019-08-02 19:16:00 INFO  AutoApprovalServiceImpl:53 - ApplicationPolicy [applicationId=78, user=User [userId=52, name=Saharsh, email=saharsh@gmail.com, city=indore, state=MP, address=bawarkua, dob=2019-08-13, mobNo=9876543210, role=Role [roleId=3, roleName=User]], status=Auto approved, details=null, salary=2000000, sumAssured=1248552, age=23, noOfYears=2, noOfDependents=0, premium=0]
+2019-08-02 19:16:00 INFO  AutoApprovalServiceImpl:37 - schedular is invoked
+2019-08-02 19:16:00 INFO  AutoApprovalServiceImpl:53 - ApplicationPolicy [applicationId=79, user=User [userId=52, name=Saharsh, email=saharsh@gmail.com, city=indore, state=MP, address=bawarkua, dob=2019-08-13, mobNo=9876543210, role=Role [roleId=3, roleName=User]], status=Auto approved, details=null, salary=2000000, sumAssured=1248552, age=23, noOfYears=2, noOfDependents=2, premium=14484]
+2019-08-02 19:16:00 INFO  AutoApprovalServiceImpl:37 - schedular is invoked
+2019-08-02 19:16:00 INFO  AutoApprovalServiceImpl:53 - ApplicationPolicy [applicationId=80, user=User [userId=52, name=Saharsh, email=saharsh@gmail.com, city=indore, state=MP, address=bawarkua, dob=2019-08-13, mobNo=9876543210, role=Role [roleId=3, roleName=User]], status=Auto approved, details=null, salary=2000000, sumAssured=1248552, age=23, noOfYears=2, noOfDependents=1, premium=26484]
+2019-08-02 19:20:00 INFO  AutoApprovalServiceImpl:34 - schedular is invoked
+2019-08-02 19:21:37 INFO  ApplicationController:83 - ApplicationController - Get application by user id is invoked 
+2019-08-02 19:21:37 INFO  ApplicationController:83 - ApplicationController - Get application by user id is invoked 
+2019-08-02 19:21:48 INFO  ApplicationController:83 - ApplicationController - Get application by user id is invoked 
+2019-08-02 19:21:48 INFO  ApplicationController:83 - ApplicationController - Get application by user id is invoked 
+2019-08-02 19:21:59 INFO  ApplicationController:83 - ApplicationController - Get application by user id is invoked 
+2019-08-02 19:21:59 INFO  ApplicationController:83 - ApplicationController - Get application by user id is invoked 
+2019-08-02 19:22:07 INFO  InsuranceTypeController:137 - InsuranceTypeController - Calculate premium new  method is invoked.
+2019-08-02 19:22:46 INFO  InsuranceTypeController:137 - InsuranceTypeController - Calculate premium new  method is invoked.
+2019-08-02 19:22:46 INFO  ApplicationController:116 - ApplicationController - Create new application method is invoked.
+2019-08-02 19:22:55 INFO  ApplicationController:83 - ApplicationController - Get application by user id is invoked 
+2019-08-02 19:22:55 INFO  ApplicationController:83 - ApplicationController - Get application by user id is invoked 
+2019-08-02 19:23:06 INFO  ApplicationController:83 - ApplicationController - Get application by user id is invoked 
+2019-08-02 19:23:06 INFO  ApplicationController:83 - ApplicationController - Get application by user id is invoked 
+2019-08-02 19:23:31 INFO  ApplicationController:83 - ApplicationController - Get application by user id is invoked 
+2019-08-02 19:23:31 INFO  ApplicationController:83 - ApplicationController - Get application by user id is invoked 
+2019-08-02 19:23:56 INFO  InsuranceTypeController:137 - InsuranceTypeController - Calculate premium new  method is invoked.
+2019-08-02 19:32:00 INFO  AutoApprovalServiceImpl:34 - schedular is invoked
+2019-08-02 19:32:00 INFO  AutoApprovalServiceImpl:37 - schedular is invoked
+2019-08-02 19:32:00 INFO  AutoApprovalServiceImpl:53 - ApplicationPolicy [applicationId=81, user=User [userId=52, name=Saharsh, email=saharsh@gmail.com, city=indore, state=MP, address=bawarkua, dob=2019-08-13, mobNo=9876543210, role=Role [roleId=3, roleName=User]], status=Auto approved, salary=250000, sumAssured=1198359, age=25, noOfYears=3, noOfDependents=1, premium=0]
+2019-08-02 19:34:21 INFO  ApplicationController:83 - ApplicationController - Get application by user id is invoked 
+2019-08-02 19:34:21 INFO  ApplicationController:83 - ApplicationController - Get application by user id is invoked 
+2019-08-02 19:34:31 INFO  ApplicationController:83 - ApplicationController - Get application by user id is invoked 
+2019-08-02 19:34:31 INFO  ApplicationController:83 - ApplicationController - Get application by user id is invoked 
+2019-08-02 19:34:54 INFO  InsuranceTypeController:137 - InsuranceTypeController - Calculate premium new  method is invoked.
+2019-08-02 19:35:09 INFO  InsuranceTypeController:137 - InsuranceTypeController - Calculate premium new  method is invoked.
+2019-08-02 19:35:09 INFO  ApplicationController:116 - ApplicationController - Create new application method is invoked.
+2019-08-02 19:35:13 INFO  InsuranceTypeController:137 - InsuranceTypeController - Calculate premium new  method is invoked.
+2019-08-02 19:35:13 INFO  ApplicationController:116 - ApplicationController - Create new application method is invoked.
+2019-08-02 19:35:23 INFO  ApplicationController:83 - ApplicationController - Get application by user id is invoked 
+2019-08-02 19:35:23 INFO  ApplicationController:83 - ApplicationController - Get application by user id is invoked 
+2019-08-02 19:35:40 INFO  InsuranceTypeController:137 - InsuranceTypeController - Calculate premium new  method is invoked.
+2019-08-02 19:35:53 INFO  InsuranceTypeController:137 - InsuranceTypeController - Calculate premium new  method is invoked.
+2019-08-02 19:35:53 INFO  ApplicationController:116 - ApplicationController - Create new application method is invoked.
+2019-08-02 19:35:59 INFO  InsuranceTypeController:137 - InsuranceTypeController - Calculate premium new  method is invoked.
+2019-08-02 19:35:59 INFO  ApplicationController:116 - ApplicationController - Create new application method is invoked.
+2019-08-02 19:36:00 INFO  AutoApprovalServiceImpl:34 - schedular is invoked
+2019-08-02 19:36:00 INFO  AutoApprovalServiceImpl:37 - schedular is invoked
+2019-08-02 19:36:00 INFO  AutoApprovalServiceImpl:53 - ApplicationPolicy [applicationId=82, user=User [userId=52, name=Saharsh, email=saharsh@gmail.com, city=indore, state=MP, address=bawarkua, dob=2019-08-13, mobNo=9876543210, role=Role [roleId=3, roleName=User]], status=Auto approved, salary=21444474, sumAssured=1000000, age=18, noOfYears=3, noOfDependents=1, premium=0]
+2019-08-02 19:36:00 INFO  AutoApprovalServiceImpl:37 - schedular is invoked
+2019-08-02 19:36:00 INFO  AutoApprovalServiceImpl:53 - ApplicationPolicy [applicationId=83, user=User [userId=52, name=Saharsh, email=saharsh@gmail.com, city=indore, state=MP, address=bawarkua, dob=2019-08-13, mobNo=9876543210, role=Role [roleId=3, roleName=User]], status=Auto approved, salary=21444474, sumAssured=1000000, age=18, noOfYears=3, noOfDependents=1, premium=27000]
+2019-08-02 19:36:00 INFO  AutoApprovalServiceImpl:37 - schedular is invoked
+2019-08-02 19:36:00 INFO  AutoApprovalServiceImpl:53 - ApplicationPolicy [applicationId=84, user=User [userId=52, name=Saharsh, email=saharsh@gmail.com, city=indore, state=MP, address=bawarkua, dob=2019-08-13, mobNo=9876543210, role=Role [roleId=3, roleName=User]], status=Auto approved, salary=3456456, sumAssured=1000000, age=18, noOfYears=1, noOfDependents=1, premium=0]
+2019-08-02 19:36:00 INFO  AutoApprovalServiceImpl:37 - schedular is invoked
+2019-08-02 19:36:00 INFO  AutoApprovalServiceImpl:53 - ApplicationPolicy [applicationId=85, user=User [userId=52, name=Saharsh, email=saharsh@gmail.com, city=indore, state=MP, address=bawarkua, dob=2019-08-13, mobNo=9876543210, role=Role [roleId=3, roleName=User]], status=Auto approved, salary=3456456, sumAssured=1000000, age=18, noOfYears=1, noOfDependents=1, premium=9000]
+2019-08-02 19:36:07 INFO  ApplicationController:83 - ApplicationController - Get application by user id is invoked 
+2019-08-02 19:36:07 INFO  ApplicationController:83 - ApplicationController - Get application by user id is invoked 
+2019-08-02 19:39:47 INFO  UserAuthenticationService:33 - getting user details:saharsh@gmail.com
+2019-08-02 19:39:47 INFO  UserAuthenticationService:35 - found user details:User [userId=52, name=Saharsh, email=saharsh@gmail.com, city=indore, state=MP, address=bawarkua, dob=2019-08-13, mobNo=9876543210, role=Role [roleId=3, roleName=User]]
+2019-08-02 19:39:51 INFO  ApplicationController:83 - ApplicationController - Get application by user id is invoked 
+2019-08-02 19:39:51 INFO  ApplicationController:83 - ApplicationController - Get application by user id is invoked 
+2019-08-02 19:40:00 INFO  AutoApprovalServiceImpl:34 - schedular is invoked
+2019-08-02 19:41:38 INFO  ApplicationController:83 - ApplicationController - Get application by user id is invoked 
+2019-08-02 19:41:38 INFO  ApplicationController:83 - ApplicationController - Get application by user id is invoked 
+2019-08-02 19:41:42 INFO  ApplicationController:83 - ApplicationController - Get application by user id is invoked 
+2019-08-02 19:41:42 INFO  ApplicationController:83 - ApplicationController - Get application by user id is invoked 
+2019-08-02 19:44:00 INFO  AutoApprovalServiceImpl:34 - schedular is invoked
+2019-08-02 19:48:00 INFO  AutoApprovalServiceImpl:34 - schedular is invoked
+2019-08-02 19:52:00 INFO  AutoApprovalServiceImpl:34 - schedular is invoked
+2019-08-02 19:56:00 INFO  AutoApprovalServiceImpl:34 - schedular is invoked
+2019-08-02 20:00:00 INFO  AutoApprovalServiceImpl:34 - schedular is invoked
+2019-08-02 20:04:00 INFO  AutoApprovalServiceImpl:34 - schedular is invoked
+2019-08-02 20:07:16 INFO  InsuranceTypeController:137 - InsuranceTypeController - Calculate premium new  method is invoked.
+2019-08-02 20:07:50 INFO  ApplicationController:83 - ApplicationController - Get application by user id is invoked 
+2019-08-02 20:07:50 INFO  ApplicationController:83 - ApplicationController - Get application by user id is invoked 
+2019-08-02 20:08:00 INFO  AutoApprovalServiceImpl:34 - schedular is invoked
+2019-08-02 20:11:14 INFO  ApplicationController:83 - ApplicationController - Get application by user id is invoked 
+2019-08-02 20:11:14 INFO  ApplicationController:83 - ApplicationController - Get application by user id is invoked 
+2019-08-02 20:11:20 INFO  ApplicationController:83 - ApplicationController - Get application by user id is invoked 
+2019-08-02 20:11:20 INFO  ApplicationController:83 - ApplicationController - Get application by user id is invoked 
+2019-08-02 20:11:23 INFO  ApplicationController:83 - ApplicationController - Get application by user id is invoked 
+2019-08-02 20:11:23 INFO  ApplicationController:83 - ApplicationController - Get application by user id is invoked 
+2019-08-02 20:11:25 INFO  ApplicationController:83 - ApplicationController - Get application by user id is invoked 
+2019-08-02 20:11:26 INFO  ApplicationController:83 - ApplicationController - Get application by user id is invoked 
+2019-08-02 20:11:30 INFO  ApplicationController:83 - ApplicationController - Get application by user id is invoked 
+2019-08-02 20:11:30 INFO  ApplicationController:83 - ApplicationController - Get application by user id is invoked 
+2019-08-02 20:11:32 INFO  ApplicationController:83 - ApplicationController - Get application by user id is invoked 
+2019-08-02 20:11:32 INFO  ApplicationController:83 - ApplicationController - Get application by user id is invoked 
+2019-08-02 20:11:37 INFO  ApplicationController:83 - ApplicationController - Get application by user id is invoked 
+2019-08-02 20:11:37 INFO  ApplicationController:83 - ApplicationController - Get application by user id is invoked 
+2019-08-02 20:12:00 INFO  AutoApprovalServiceImpl:34 - schedular is invoked
+2019-08-02 20:15:43 INFO  InsuranceTypeController:137 - InsuranceTypeController - Calculate premium new  method is invoked.
+2019-08-02 20:15:47 INFO  ApplicationController:83 - ApplicationController - Get application by user id is invoked 
+2019-08-02 20:15:47 INFO  ApplicationController:83 - ApplicationController - Get application by user id is invoked 
+2019-08-02 20:16:00 INFO  AutoApprovalServiceImpl:34 - schedular is invoked
+2019-08-02 20:18:27 INFO  ApplicationController:83 - ApplicationController - Get application by user id is invoked 
+2019-08-02 20:18:27 INFO  ApplicationController:83 - ApplicationController - Get application by user id is invoked 
+2019-08-02 20:18:31 INFO  ApplicationController:83 - ApplicationController - Get application by user id is invoked 
+2019-08-02 20:18:31 INFO  ApplicationController:83 - ApplicationController - Get application by user id is invoked 
+2019-08-02 20:19:16 INFO  ApplicationController:83 - ApplicationController - Get application by user id is invoked 
+2019-08-02 20:19:16 INFO  ApplicationController:83 - ApplicationController - Get application by user id is invoked 
+2019-08-02 20:19:18 INFO  ApplicationController:83 - ApplicationController - Get application by user id is invoked 
+2019-08-02 20:19:18 INFO  ApplicationController:83 - ApplicationController - Get application by user id is invoked 
+2019-08-02 20:19:41 INFO  InsuranceTypeController:137 - InsuranceTypeController - Calculate premium new  method is invoked.
+2019-08-02 20:20:00 INFO  AutoApprovalServiceImpl:34 - schedular is invoked
+2019-08-02 20:20:03 INFO  InsuranceTypeController:137 - InsuranceTypeController - Calculate premium new  method is invoked.
+2019-08-02 20:20:03 INFO  ApplicationController:116 - ApplicationController - Create new application method is invoked.
+2019-08-02 20:20:20 INFO  InsuranceTypeController:137 - InsuranceTypeController - Calculate premium new  method is invoked.
+2019-08-02 20:20:20 INFO  ApplicationController:116 - ApplicationController - Create new application method is invoked.
+2019-08-02 20:20:24 INFO  ApplicationController:83 - ApplicationController - Get application by user id is invoked 
+2019-08-02 20:20:24 INFO  ApplicationController:83 - ApplicationController - Get application by user id is invoked 
+2019-08-02 20:20:48 INFO  ApplicationController:83 - ApplicationController - Get application by user id is invoked 
+2019-08-02 20:20:48 INFO  ApplicationController:83 - ApplicationController - Get application by user id is invoked 
+2019-08-02 20:21:49 INFO  InsuranceTypeController:137 - InsuranceTypeController - Calculate premium new  method is invoked.
+2019-08-02 20:22:19 INFO  InsuranceTypeController:137 - InsuranceTypeController - Calculate premium new  method is invoked.
+2019-08-02 20:22:32 INFO  InsuranceTypeController:137 - InsuranceTypeController - Calculate premium new  method is invoked.
+2019-08-02 20:23:01 INFO  InsuranceTypeController:137 - InsuranceTypeController - Calculate premium new  method is invoked.
+2019-08-02 20:24:00 INFO  AutoApprovalServiceImpl:34 - schedular is invoked
+2019-08-02 20:24:00 INFO  AutoApprovalServiceImpl:37 - schedular is invoked
+2019-08-02 20:24:00 INFO  AutoApprovalServiceImpl:53 - ApplicationPolicy [applicationId=86, user=User [userId=52, name=Saharsh, email=saharsh@gmail.com, city=indore, state=MP, address=bawarkua, dob=2019-08-13, mobNo=9876543210, role=Role [roleId=3, roleName=User]], status=Auto approved, salary=5000, sumAssured=591651, age=24, noOfYears=2, noOfDependents=0, premium=0]
+2019-08-02 20:24:00 INFO  AutoApprovalServiceImpl:37 - schedular is invoked
+2019-08-02 20:24:00 INFO  AutoApprovalServiceImpl:45 - ApplicationPolicy [applicationId=87, user=User [userId=52, name=Saharsh, email=saharsh@gmail.com, city=indore, state=MP, address=bawarkua, dob=2019-08-13, mobNo=9876543210, role=Role [roleId=3, roleName=User]], status=Under Review, salary=5000, sumAssured=591651, age=24, noOfYears=2, noOfDependents=0, premium=7916]
+2019-08-02 20:24:37 INFO  InsuranceTypeController:137 - InsuranceTypeController - Calculate premium new  method is invoked.
+2019-08-02 20:24:37 INFO  ApplicationController:116 - ApplicationController - Create new application method is invoked.
+2019-08-02 20:24:38 INFO  ApplicationController:83 - ApplicationController - Get application by user id is invoked 
+2019-08-02 20:24:38 INFO  ApplicationController:83 - ApplicationController - Get application by user id is invoked 
+2019-08-02 20:24:46 INFO  ApplicationController:83 - ApplicationController - Get application by user id is invoked 
+2019-08-02 20:24:46 INFO  ApplicationController:83 - ApplicationController - Get application by user id is invoked 
+2019-08-02 20:25:44 INFO  ApplicationController:83 - ApplicationController - Get application by user id is invoked 
+2019-08-02 20:25:44 INFO  ApplicationController:83 - ApplicationController - Get application by user id is invoked 
+2019-08-02 20:28:00 INFO  AutoApprovalServiceImpl:34 - schedular is invoked
+2019-08-02 20:28:00 INFO  AutoApprovalServiceImpl:37 - schedular is invoked
+2019-08-02 20:28:00 INFO  AutoApprovalServiceImpl:53 - ApplicationPolicy [applicationId=88, user=User [userId=52, name=Saharsh, email=saharsh@gmail.com, city=indore, state=MP, address=bawarkua, dob=2019-08-13, mobNo=9876543210, role=Role [roleId=3, roleName=User]], status=Auto approved, salary=67744, sumAssured=1289093, age=18, noOfYears=2, noOfDependents=1, premium=0]
+2019-08-02 20:28:57 INFO  InsuranceTypeController:137 - InsuranceTypeController - Calculate premium new  method is invoked.
+2019-08-02 20:29:45 INFO  InsuranceTypeController:137 - InsuranceTypeController - Calculate premium new  method is invoked.
+2019-08-02 20:29:45 INFO  ApplicationController:116 - ApplicationController - Create new application method is invoked.
+2019-08-02 20:29:46 INFO  InsuranceTypeController:137 - InsuranceTypeController - Calculate premium new  method is invoked.
+2019-08-02 20:29:46 INFO  ApplicationController:116 - ApplicationController - Create new application method is invoked.
+2019-08-02 20:29:48 INFO  ApplicationController:83 - ApplicationController - Get application by user id is invoked 
+2019-08-02 20:29:48 INFO  ApplicationController:83 - ApplicationController - Get application by user id is invoked 
+2019-08-02 20:30:00 INFO  ApplicationController:83 - ApplicationController - Get application by user id is invoked 
+2019-08-02 20:30:00 INFO  ApplicationController:83 - ApplicationController - Get application by user id is invoked 
+2019-08-02 20:30:04 INFO  ApplicationController:83 - ApplicationController - Get application by user id is invoked 
+2019-08-02 20:30:04 INFO  ApplicationController:83 - ApplicationController - Get application by user id is invoked 
+2019-08-02 20:30:08 INFO  ApplicationController:83 - ApplicationController - Get application by user id is invoked 
+2019-08-02 20:30:08 INFO  ApplicationController:83 - ApplicationController - Get application by user id is invoked 
+2019-08-02 20:31:54 INFO  ApplicationController:83 - ApplicationController - Get application by user id is invoked 
+2019-08-02 20:31:54 INFO  ApplicationController:83 - ApplicationController - Get application by user id is invoked 
+2019-08-02 20:31:59 INFO  ApplicationController:83 - ApplicationController - Get application by user id is invoked 
+2019-08-02 20:31:59 INFO  ApplicationController:83 - ApplicationController - Get application by user id is invoked 
+2019-08-02 20:32:00 INFO  AutoApprovalServiceImpl:34 - schedular is invoked
+2019-08-02 20:32:00 INFO  AutoApprovalServiceImpl:37 - schedular is invoked
+2019-08-02 20:32:00 INFO  AutoApprovalServiceImpl:53 - ApplicationPolicy [applicationId=89, user=User [userId=52, name=Saharsh, email=saharsh@gmail.com, city=indore, state=MP, address=bawarkua, dob=2019-08-13, mobNo=9876543210, role=Role [roleId=3, roleName=User]], status=Auto approved, salary=822222, sumAssured=1167471, age=22, noOfYears=2, noOfDependents=1, premium=0]
+2019-08-02 20:32:00 INFO  AutoApprovalServiceImpl:37 - schedular is invoked
+2019-08-02 20:32:00 INFO  AutoApprovalServiceImpl:53 - ApplicationPolicy [applicationId=90, user=User [userId=52, name=Saharsh, email=saharsh@gmail.com, city=indore, state=MP, address=bawarkua, dob=2019-08-13, mobNo=9876543210, role=Role [roleId=3, roleName=User]], status=Auto approved, salary=822222, sumAssured=1167471, age=22, noOfYears=2, noOfDependents=1, premium=19674]
+2019-08-02 20:32:54 INFO  ApplicationController:83 - ApplicationController - Get application by user id is invoked 
+2019-08-02 20:33:05 INFO  InsuranceTypeController:137 - InsuranceTypeController - Calculate premium new  method is invoked.
+2019-08-02 20:33:10 INFO  InsuranceTypeController:137 - InsuranceTypeController - Calculate premium new  method is invoked.
+2019-08-02 20:33:10 INFO  ApplicationController:116 - ApplicationController - Create new application method is invoked.
+2019-08-02 20:33:20 INFO  InsuranceTypeController:137 - InsuranceTypeController - Calculate premium new  method is invoked.
+2019-08-02 20:33:20 INFO  ApplicationController:116 - ApplicationController - Create new application method is invoked.
+2019-08-02 20:34:24 INFO  ApplicationController:83 - ApplicationController - Get application by user id is invoked 
+2019-08-02 20:34:34 INFO  ApplicationController:83 - ApplicationController - Get application by user id is invoked 
+2019-08-02 20:34:37 INFO  ApplicationController:83 - ApplicationController - Get application by user id is invoked 
+2019-08-02 20:34:39 INFO  ApplicationController:83 - ApplicationController - Get application by user id is invoked 
+2019-08-02 20:35:51 INFO  ApplicationController:83 - ApplicationController - Get application by user id is invoked 
+2019-08-02 20:35:56 INFO  ApplicationController:83 - ApplicationController - Get application by user id is invoked 
+2019-08-02 20:36:00 INFO  AutoApprovalServiceImpl:34 - schedular is invoked
+2019-08-02 20:36:00 INFO  AutoApprovalServiceImpl:37 - schedular is invoked
+2019-08-02 20:36:00 INFO  AutoApprovalServiceImpl:53 - ApplicationPolicy [applicationId=91, user=User [userId=52, name=Saharsh, email=saharsh@gmail.com, city=indore, state=MP, address=bawarkua, dob=2019-08-13, mobNo=9876543210, role=Role [roleId=3, roleName=User]], status=Auto approved, salary=0, sumAssured=1000000, age=18, noOfYears=1, noOfDependents=1, premium=0]
+2019-08-02 20:36:00 INFO  AutoApprovalServiceImpl:37 - schedular is invoked
+2019-08-02 20:36:00 INFO  AutoApprovalServiceImpl:45 - ApplicationPolicy [applicationId=92, user=User [userId=52, name=Saharsh, email=saharsh@gmail.com, city=indore, state=MP, address=bawarkua, dob=2019-08-13, mobNo=9876543210, role=Role [roleId=3, roleName=User]], status=Under Review, salary=0, sumAssured=1000000, age=18, noOfYears=1, noOfDependents=1, premium=9000]
+2019-08-02 20:38:24 INFO  ApplicationController:83 - ApplicationController - Get application by user id is invoked 
+2019-08-02 20:38:38 INFO  InsuranceTypeController:137 - InsuranceTypeController - Calculate premium new  method is invoked.
+2019-08-02 20:38:45 INFO  InsuranceTypeController:137 - InsuranceTypeController - Calculate premium new  method is invoked.
+2019-08-02 20:38:45 INFO  ApplicationController:116 - ApplicationController - Create new application method is invoked.
+2019-08-02 20:38:49 INFO  ApplicationController:83 - ApplicationController - Get application by user id is invoked 
+2019-08-02 20:39:03 INFO  ApplicationController:83 - ApplicationController - Get application by user id is invoked 
+2019-08-02 20:39:07 INFO  ApplicationController:83 - ApplicationController - Get application by user id is invoked 
+2019-08-02 20:39:08 INFO  ApplicationController:83 - ApplicationController - Get application by user id is invoked 
+2019-08-02 20:39:09 INFO  ApplicationController:83 - ApplicationController - Get application by user id is invoked 
+2019-08-02 20:39:11 INFO  ApplicationController:83 - ApplicationController - Get application by user id is invoked 
+2019-08-02 20:39:13 INFO  ApplicationController:83 - ApplicationController - Get application by user id is invoked 
+2019-08-05 09:16:46 INFO  UserAuthenticationService:33 - getting user details:saharsh@gmail.com
+2019-08-05 09:16:46 INFO  UserAuthenticationService:35 - found user details:User [userId=52, name=Saharsh, email=saharsh@gmail.com, city=indore, state=MP, address=bawarkua, dob=2019-08-13, mobNo=9876543210, role=Role [roleId=3, roleName=User]]
+2019-08-05 09:16:58 INFO  InsuranceTypeController:137 - InsuranceTypeController - Calculate premium new  method is invoked.
+2019-08-05 09:18:41 INFO  InsuranceTypeController:137 - InsuranceTypeController - Calculate premium new  method is invoked.
+2019-08-05 09:18:41 INFO  ApplicationController:116 - ApplicationController - Create new application method is invoked.
+2019-08-05 09:18:48 INFO  InsuranceTypeController:137 - InsuranceTypeController - Calculate premium new  method is invoked.
+2019-08-05 09:18:48 INFO  ApplicationController:116 - ApplicationController - Create new application method is invoked.
+2019-08-05 09:19:09 INFO  ApplicationController:83 - ApplicationController - Get application by user id is invoked 
+2019-08-05 09:19:18 INFO  ApplicationController:83 - ApplicationController - Get application by user id is invoked 
+2019-08-05 09:19:27 INFO  ApplicationController:83 - ApplicationController - Get application by user id is invoked 
+2019-08-05 09:20:00 INFO  AutoApprovalServiceImpl:34 - schedular is invoked
+2019-08-05 09:20:00 INFO  AutoApprovalServiceImpl:37 - schedular is invoked
+2019-08-05 09:20:00 INFO  AutoApprovalServiceImpl:53 - ApplicationPolicy [applicationId=93, user=User [userId=52, name=Saharsh, email=saharsh@gmail.com, city=indore, state=MP, address=bawarkua, dob=2019-08-13, mobNo=9876543210, role=Role [roleId=3, roleName=User]], status=Auto approved, salary=0, sumAssured=1000000, age=18, noOfYears=1, noOfDependents=0, premium=0]
+2019-08-05 09:20:00 INFO  AutoApprovalServiceImpl:37 - schedular is invoked
+2019-08-05 09:20:00 INFO  AutoApprovalServiceImpl:53 - ApplicationPolicy [applicationId=94, user=User [userId=52, name=Saharsh, email=saharsh@gmail.com, city=indore, state=MP, address=bawarkua, dob=2019-08-13, mobNo=9876543210, role=Role [roleId=3, roleName=User]], status=Auto approved, salary=3456456, sumAssured=1314189, age=60, noOfYears=2, noOfDependents=1, premium=0]
+2019-08-05 09:20:00 INFO  AutoApprovalServiceImpl:37 - schedular is invoked
+2019-08-05 09:20:00 INFO  AutoApprovalServiceImpl:53 - ApplicationPolicy [applicationId=95, user=User [userId=52, name=Saharsh, email=saharsh@gmail.com, city=indore, state=MP, address=bawarkua, dob=2019-08-13, mobNo=9876543210, role=Role [roleId=3, roleName=User]], status=Auto approved, salary=3456456, sumAssured=1314189, age=60, noOfYears=2, noOfDependents=1, premium=25140]
+2019-08-05 09:20:02 INFO  ApplicationController:83 - ApplicationController - Get application by user id is invoked 
+2019-08-05 09:20:15 INFO  ApplicationController:83 - ApplicationController - Get application by user id is invoked 
+2019-08-05 09:20:56 INFO  ApplicationController:83 - ApplicationController - Get application by user id is invoked 
+2019-08-05 09:20:59 INFO  ApplicationController:83 - ApplicationController - Get application by user id is invoked 
+2019-08-05 09:23:22 INFO  InsuranceTypeController:137 - InsuranceTypeController - Calculate premium new  method is invoked.
+2019-08-05 09:23:24 INFO  InsuranceTypeController:137 - InsuranceTypeController - Calculate premium new  method is invoked.
+2019-08-05 09:23:41 INFO  InsuranceTypeController:137 - InsuranceTypeController - Calculate premium new  method is invoked.
+2019-08-05 09:23:41 INFO  ApplicationController:116 - ApplicationController - Create new application method is invoked.
+2019-08-05 09:23:48 INFO  InsuranceTypeController:137 - InsuranceTypeController - Calculate premium new  method is invoked.
+2019-08-05 09:23:48 INFO  ApplicationController:116 - ApplicationController - Create new application method is invoked.
+2019-08-05 09:23:59 INFO  ApplicationController:83 - ApplicationController - Get application by user id is invoked 
+2019-08-05 09:24:00 INFO  AutoApprovalServiceImpl:34 - schedular is invoked
+2019-08-05 09:24:00 INFO  AutoApprovalServiceImpl:37 - schedular is invoked
+2019-08-05 09:24:00 INFO  AutoApprovalServiceImpl:53 - ApplicationPolicy [applicationId=96, user=User [userId=52, name=Saharsh, email=saharsh@gmail.com, city=indore, state=MP, address=bawarkua, dob=2019-08-13, mobNo=9876543210, role=Role [roleId=3, roleName=User]], status=Auto approved, salary=321, sumAssured=2000000, age=18, noOfYears=1, noOfDependents=1, premium=0]
+2019-08-05 09:24:00 INFO  AutoApprovalServiceImpl:37 - schedular is invoked
+2019-08-05 09:24:00 INFO  AutoApprovalServiceImpl:45 - ApplicationPolicy [applicationId=97, user=User [userId=52, name=Saharsh, email=saharsh@gmail.com, city=indore, state=MP, address=bawarkua, dob=2019-08-13, mobNo=9876543210, role=Role [roleId=3, roleName=User]], status=Under Review, salary=321, sumAssured=2000000, age=18, noOfYears=1, noOfDependents=1, premium=14000]
+2019-08-05 09:25:00 INFO  ApplicationController:83 - ApplicationController - Get application by user id is invoked 
+2019-08-05 09:25:15 INFO  ApplicationController:83 - ApplicationController - Get application by user id is invoked 
+2019-08-05 09:25:19 INFO  InsuranceTypeController:137 - InsuranceTypeController - Calculate premium new  method is invoked.
+2019-08-05 09:27:53 INFO  InsuranceTypeController:137 - InsuranceTypeController - Calculate premium new  method is invoked.
+2019-08-05 09:28:00 INFO  AutoApprovalServiceImpl:34 - schedular is invoked
+2019-08-05 09:32:00 INFO  AutoApprovalServiceImpl:34 - schedular is invoked
+2019-08-05 09:36:00 INFO  AutoApprovalServiceImpl:34 - schedular is invoked
+2019-08-05 09:39:06 INFO  UserAuthenticationService:33 - getting user details:deepak@gmail.com
+2019-08-05 09:39:06 INFO  UserAuthenticationService:35 - found user details:User [userId=8, name=deepak, email=deepak@gmail.com, city=indore, state=mp, address=deepak ka ghar, dob=null, mobNo=556, role=Role [roleId=2, roleName=UnderWriter]]
+2019-08-05 09:39:15 INFO  UserAuthenticationService:33 - getting user details:saharsh@gmail.com
+2019-08-05 09:39:15 INFO  UserAuthenticationService:35 - found user details:User [userId=52, name=Saharsh, email=saharsh@gmail.com, city=indore, state=MP, address=bawarkua, dob=2019-08-13, mobNo=9876543210, role=Role [roleId=3, roleName=User]]
+2019-08-05 09:39:18 INFO  ApplicationController:83 - ApplicationController - Get application by user id is invoked 
+2019-08-05 09:40:00 INFO  AutoApprovalServiceImpl:34 - schedular is invoked
+2019-08-05 09:40:29 INFO  ApplicationController:60 - ApplicationController - Get application details by id is invoked.
+2019-08-05 09:40:37 INFO  ApplicationController:60 - ApplicationController - Get application details by id is invoked.
+2019-08-05 09:40:53 INFO  ApplicationController:60 - ApplicationController - Get application details by id is invoked.
+2019-08-05 09:40:58 INFO  ApplicationController:60 - ApplicationController - Get application details by id is invoked.
+2019-08-05 09:41:01 INFO  ApplicationController:83 - ApplicationController - Get application by user id is invoked 
+2019-08-05 09:41:01 INFO  ApplicationController:83 - ApplicationController - Get application by user id is invoked 
+2019-08-05 09:41:04 INFO  ApplicationController:60 - ApplicationController - Get application details by id is invoked.
+2019-08-05 09:41:09 INFO  ApplicationController:60 - ApplicationController - Get application details by id is invoked.
+2019-08-05 09:41:16 INFO  ApplicationController:60 - ApplicationController - Get application details by id is invoked.
+2019-08-05 09:41:17 INFO  ApplicationController:60 - ApplicationController - Get application details by id is invoked.
+2019-08-05 09:41:17 INFO  ApplicationController:60 - ApplicationController - Get application details by id is invoked.
+2019-08-05 09:41:17 INFO  ApplicationController:60 - ApplicationController - Get application details by id is invoked.
+2019-08-05 09:41:18 INFO  ApplicationController:60 - ApplicationController - Get application details by id is invoked.
+2019-08-05 09:41:29 INFO  ApplicationController:83 - ApplicationController - Get application by user id is invoked 
+2019-08-05 09:41:51 INFO  ApplicationController:83 - ApplicationController - Get application by user id is invoked 
+2019-08-05 09:41:51 INFO  ApplicationController:83 - ApplicationController - Get application by user id is invoked 
+2019-08-05 09:42:16 INFO  ApplicationController:83 - ApplicationController - Get application by user id is invoked 
+2019-08-05 09:42:16 INFO  ApplicationController:83 - ApplicationController - Get application by user id is invoked 
+2019-08-05 09:42:20 INFO  ApplicationController:83 - ApplicationController - Get application by user id is invoked 
+2019-08-05 09:42:20 INFO  ApplicationController:83 - ApplicationController - Get application by user id is invoked 
+2019-08-05 09:42:25 INFO  ApplicationController:83 - ApplicationController - Get application by user id is invoked 
+2019-08-05 09:42:25 INFO  ApplicationController:83 - ApplicationController - Get application by user id is invoked 
+2019-08-05 09:42:47 INFO  ApplicationController:83 - ApplicationController - Get application by user id is invoked 
+2019-08-05 09:42:47 INFO  ApplicationController:83 - ApplicationController - Get application by user id is invoked 
+2019-08-05 09:44:00 INFO  AutoApprovalServiceImpl:34 - schedular is invoked
+2019-08-05 09:48:00 INFO  AutoApprovalServiceImpl:34 - schedular is invoked
+2019-08-05 09:52:00 INFO  AutoApprovalServiceImpl:34 - schedular is invoked
+2019-08-05 09:56:00 INFO  AutoApprovalServiceImpl:34 - schedular is invoked
+2019-08-05 10:00:00 INFO  AutoApprovalServiceImpl:34 - schedular is invoked
+2019-08-05 10:04:00 INFO  AutoApprovalServiceImpl:34 - schedular is invoked
+2019-08-05 10:08:00 INFO  AutoApprovalServiceImpl:34 - schedular is invoked
+2019-08-05 10:12:00 INFO  AutoApprovalServiceImpl:34 - schedular is invoked
+2019-08-05 10:16:00 INFO  AutoApprovalServiceImpl:34 - schedular is invoked
+2019-08-05 10:20:00 INFO  AutoApprovalServiceImpl:34 - schedular is invoked
+2019-08-05 10:24:00 INFO  AutoApprovalServiceImpl:34 - schedular is invoked
+2019-08-05 10:28:00 INFO  AutoApprovalServiceImpl:34 - schedular is invoked

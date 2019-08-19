@@ -1,0 +1,209 @@
+<div class="container">
+<div class="container-fluid">
+
+    <!-- <h2>Registration Form</h2> -->
+    
+    <!-- {{registrationForm.status | json}}
+    
+    {{registrationForm.value | json}}
+     -->
+    
+    
+    <form [formGroup]="registrationForm" class="alert alert-info" (ngSubmit)="onSubmit()">
+       
+    
+        <div class="text-center">
+            <h2><strong>Registration Form </strong></h2>
+          </div>
+    
+    <div class="form-group">
+    
+    <label> Name</label>
+    
+    <input placeholder="Your Name" type="text" [class.is-invalid]="name.invalid && name.touched" formControlName="name"
+    
+    class="form-control">
+    
+    
+    <div *ngIf="name.invalid && name.touched">
+    
+    <small class="text-danger" *ngIf="name.errors?.required">Username is required</small>
+    
+    <small class="text-danger" *ngIf="name.errors?.minlength">Username must be at least 3 characters</small>
+    
+    <small class="text-danger" *ngIf="name.errors?.forbiddenName">'{{name.errors?.forbiddenName.value}}'
+    
+    username not allowed</small>
+    
+    </div>
+    
+    </div>
+    
+    
+    
+    <div class="form-group">
+    
+    <label>Password</label>
+    
+    <input type="password" placeholder="Password" formControlName="password" class="form-control">
+    
+    </div>
+    
+    
+    
+    <div class="form-group">
+    
+    <label>Confirm Password</label>
+    
+    <input placeholder="Password" type="password" [class.is-invalid]="registrationForm.errors?.misMatch" formControlName="confirmPassword"
+    
+    class="form-control">
+    
+    <small class="text-danger" *ngIf="registrationForm.errors?.misMatch">Passwords do not match</small>
+    
+    </div>
+    
+    
+    
+    <div class="form-group">
+    
+    <label>Email</label>
+    
+    
+    <input placeholder="Your Email ID" type="text" [class.is-invalid]="email.invalid && email.touched" formControlName="email"
+    
+    class="form-control">
+    
+    <div *ngIf="email.invalid && email.touched">
+    
+    <small class="text-danger" *ngIf="email.errors?.required">Email is required</small>
+    
+    <small class="text-danger" *ngIf="email.errors?.pattern"> Email is invalid </small>
+    
+    
+    
+    </div>
+    
+    
+    
+    
+    
+    </div>
+    
+    
+    
+    <div class="form-group">
+    
+    <label>Date of birth</label>
+    
+    <!-- <input type="date" [class.is-invalid]="date.invalid && date.touched" formControlName="date" class="form-control"
+    min="1940-01-01" max="2001-07-01" >
+     -->
+
+
+<input type="date"  placeholder="YYYY-MM-DD" required  formControlName="dob" class="form-control"
+pattern="(?:19|20)[0-9]{2}-(?:(?:0[1-9]|1[0-2])-(?:0[1-9]|1[0-9]|2[0-9])|(?:(?!02)(?:0[1-9]|1[0-2])-(?:30))|(?:(?:0[13578]|1[02])-31))" 
+title="Enter a date in this format YYYY-MM-DD"/>
+
+
+
+    
+    <div *ngIf="date.invalid && date.touched">
+    
+    <small class="text-danger" *ngIf="date.errors?.required">Date of Birth is required</small>
+    
+    </div>
+    
+    </div>
+    
+    
+    
+    <div class="form-group">
+    
+    <label>Contact Number</label>
+    
+    <input placeholder="Contact Number ex:9584567497" type="number" formControlName="mobNo" class="form-control" required>
+    
+    
+    
+    </div>
+    
+    
+    <div class="form-group">
+    
+    <label>City</label>
+    
+    <input placeholder="City" type="text" formControlName="city" class="form-control" required
+    
+    [class.is-invalid]="city.invalid && city.touched">
+    
+    <div *ngIf="city.invalid && city.touched">
+    
+    <small class="text-danger" *ngIf="city.errors?.required">City is required</small>
+    
+    </div>
+    
+    
+    
+    
+    
+    </div>
+    
+    
+    
+    <div class="form-group">
+    
+    <label>State</label>
+    
+    <input placeholder="State" type="text" formControlName="state" class="form-control"
+    
+    [class.is-invalid]="state.invalid && state.touched">
+    
+    <div *ngIf="state.invalid && state.touched">
+    
+    <small class="text-danger" *ngIf="state.errors?.required">State is required</small>
+    
+    </div>
+    
+    </div>
+ 
+    
+    
+    <div class="form-group">
+    
+    <label>Address</label>
+    
+    <input placeholder="Address" type="text" formControlName="address" class="form-control"
+    
+    [class.is-invalid]="address.invalid && address.touched">
+    
+    <div *ngIf="address.invalid && address.touched">
+    
+    <small class="text-danger" *ngIf="address.errors?.required">Address is required</small>
+    
+    <small class="text-danger" *ngIf="address.errors?.minlength">Address must be at least 5 characters</small>
+    
+    </div>
+    
+    </div>
+    
+    
+    <button class="btn btn-primary"  [disabled]="!registrationForm.valid"   type="submit" >Register</button>
+    
+    <!-- <button (click)="loadAPIData()" class="btn btn-secondary ml-2" type="button">Load API Data</button>
+     -->
+    
+    
+     
+    
+    
+    
+    
+    </form>
+    <!-- <div class="alert alert-success">
+        <strong>Success!</strong> 
+      </div> -->
+  </div>
+    <!-- {{registrationForm.status | json}}
+    
+    {{registrationForm.value | json}} -->

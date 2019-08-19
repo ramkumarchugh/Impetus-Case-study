@@ -1,0 +1,40 @@
+body {
+
+
+
+    font-family: Arial;
+    
+    
+    }
+    
+    
+    
+    div.card {
+    
+    
+    border-radius: 5px;
+    
+    
+    /* background-color: mediumturquoise; */
+    
+    
+    padding: 10px;
+    
+    
+    width: 80%;
+    
+    font-size: 120%;
+    margin: 2% auto 5% auto;
+    
+    
+    }
+    label {
+        display: block;
+        font: 1rem 'Fira Sans', sans-serif;
+    }
+    
+    input,
+    label {
+        margin: .4rem 0;
+    }
+   

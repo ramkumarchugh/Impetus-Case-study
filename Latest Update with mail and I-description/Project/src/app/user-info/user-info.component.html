@@ -1,0 +1,99 @@
+<div class="mat-elevation-z8" >
+
+<mat-card>
+        <h2>User List </h2>        
+    <table mat-table [dataSource]="UserDataSource" matSort>
+        <ng-container matColumnDef="userId">
+            <mat-header-cell *matHeaderCellDef mat-sort-header> User ID</mat-header-cell>
+            <mat-cell *matCellDef="let element"> {{element.userId}} </mat-cell>
+        </ng-container>
+
+        <ng-container matColumnDef="name">
+            <mat-header-cell *matHeaderCellDef mat-sort-header>Name </mat-header-cell>
+            <mat-cell *matCellDef="let element"> {{element.name}} </mat-cell>
+        </ng-container>
+
+        <ng-container matColumnDef="email">
+            <mat-header-cell *matHeaderCellDef mat-sort-header> Email ID</mat-header-cell>
+            <mat-cell *matCellDef="let element"> {{element.email}} </mat-cell>
+        </ng-container>
+        
+
+        <ng-container matColumnDef="city">
+            <mat-header-cell *matHeaderCellDef mat-sort-header>City </mat-header-cell>
+            <mat-cell *matCellDef="let element"> {{element.city}} </mat-cell>
+        </ng-container>
+
+
+        <ng-container matColumnDef="state">
+            <mat-header-cell *matHeaderCellDef mat-sort-header>State </mat-header-cell>
+            <mat-cell *matCellDef="let element"> {{element.state}} </mat-cell>
+        </ng-container>
+
+
+        <ng-container matColumnDef="address">
+            <mat-header-cell *matHeaderCellDef mat-sort-header>Address </mat-header-cell>
+            <mat-cell *matCellDef="let element"> {{element.address}} </mat-cell>
+        </ng-container>
+
+        <ng-container matColumnDef="dob">
+            <mat-header-cell *matHeaderCellDef mat-sort-header>Date of Birth </mat-header-cell>
+            <mat-cell *matCellDef="let element"> {{element.dob}} </mat-cell>
+        </ng-container>
+
+        <ng-container matColumnDef="mobNo">
+            <mat-header-cell *matHeaderCellDef mat-sort-header>Mobile No. </mat-header-cell>
+            <mat-cell *matCellDef="let element"> {{element.mobNo}} </mat-cell>
+        </ng-container>
+
+
+
+        <mat-header-row *matHeaderRowDef="userColumns"></mat-header-row>
+        <mat-row *matRowDef="let row; columns: userColumns;"></mat-row>
+    </table>
+    <mat-paginator [pageSizeOptions]="[5, 10, 20]" showFirstLastButtons></mat-paginator>
+</mat-card>
+ 
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ <!-- <table class="table table-bordered">
+ 
+     <tr>
+         <th>userId</th>
+         <th>name</th>
+         <th>email</th>
+         <th>city</th>
+         <th>state</th>
+         <th>address</th>
+         <th>dob</th>
+         <th>mobNo</th>
+     </tr>
+     <tr *ngFor="let admin of users ">
+ 
+         <td> {{admin.userId }} </td>
+         <td> {{admin.name }} </td>
+         <td> {{admin.email }} </td>
+         <td> {{admin.password }} </td>
+         <td> {{admin.city }} </td>
+         <td> {{admin.state }} </td>
+         <td> {{admin.address }} </td>
+         <td> {{admin.dob }} </td>
+         <td> {{admin.mobNo }} </td>
+         <td> {{admin.roleId }} </td>
+ 
+     </tr>
+ </table>
+  -->
